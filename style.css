@@ -16,6 +16,16 @@ html{
     transition: .1s all linear;
 
 }
+a.nav-link{
+  color: white;
+  transition: .1s all linear;
+  
+}
+a.nav-link:hover{
+  color: blue;
+  transition: .1s all linear;
+
+}
 .blue-btn:hover {
     background-color: blue;
     transition: .1s all linear;
